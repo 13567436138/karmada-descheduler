@@ -1,1 +1,1 @@
-FROM docker.io/karmada/karmada-descheduler:v1.7.0
+FROM docker.io/karmada/karmada-descheduler:v1.8.0
